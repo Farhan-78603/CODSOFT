@@ -46,7 +46,7 @@ background-color: black;
     font-size: 25px;
     font-family:Courier;
     margin: 30px;
-    color: black;
+    color: white;
     font-weight: 500;
 }
 
@@ -75,7 +75,6 @@ background-color: black;
     align-items: flex-end;
     gap: 1px;
     justify-content: center;
-    color: black;
     
 }
 
@@ -95,6 +94,7 @@ background-color: black;
     padding-bottom: 10px;
     
 }
+
 
 
 
