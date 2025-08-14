@@ -75,6 +75,7 @@ background-color: black;
     align-items: flex-end;
     gap: 1px;
     justify-content: center;
+    color: black;
     
 }
 
@@ -94,6 +95,7 @@ background-color: black;
     padding-bottom: 10px;
     
 }
+
 
 
 
